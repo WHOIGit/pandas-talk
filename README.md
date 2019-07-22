@@ -4,5 +4,5 @@ Pandas is a high-performance Python library for data anaylsis, especially well-s
 
 The [slides](https://tinyurl.com/pandas-talk-slides) give an overview including a brief introduction to Python.
 
-You can [launch the code]((https://tinyurl.com/pandas-talk) interactively as well.
+You can [launch the code](https://tinyurl.com/pandas-talk) interactively as well.
 For help running the code, check out [the documentation for Jupyter](https://jupyter-notebook.readthedocs.io/en/latest/notebook.html).
